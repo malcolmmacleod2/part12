@@ -1,0 +1,41 @@
+Script started on Sun Feb 27 12:35:36 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Malcolms-MacBook-Pro-3.local/Users/malcolmmacleod/Developer/fullstackopen/part12/part12-containers-applications-main/script-answers[0m[27m[24m[Jmalcolmmacleod@Malcolms-MacBook-Pro-3 script-answers % [K[?2004h[7mdocker run -it ubuntu bas[7mh[27m[K[A[54C[27md[27mo[27mc[27mk[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27msh[?2004l
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2K08c01a0ec47e: Pulling fs layer [1B[1A[2K08c01a0ec47e: Downloading  285.9kB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  1.751MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  2.923MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  4.406MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading   5.88MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  7.949MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  9.993MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  11.76MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  13.22MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  15.56MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  17.62MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  19.97MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  21.74MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading   23.8MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  25.57MB/28.56MB[1B[1A[2K08c01a0ec47e: Downloading  27.63MB/28.56MB[1B[1A[2K08c01a0ec47e: Verifying Checksum [1B[1A[2K08c01a0ec47e: Download complete [1B[1A[2K08c01a0ec47e: Extracting  294.9kB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  1.769MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  3.244MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  4.719MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  6.488MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  7.963MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  9.437MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  10.62MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  12.39MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  14.45MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  16.52MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  18.87MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  20.35MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  22.12MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  23.89MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  24.18MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  25.36MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  27.13MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  28.02MB/28.56MB[1B[1A[2K08c01a0ec47e: Extracting  28.56MB/28.56MB[1B[1A[2K08c01a0ec47e: Pull complete [1BDigest: sha256:669e010b58baf5beb2836b253c1fd5768333f0d1dbcb834f7c07a4dc93f474be
+Status: Downloaded newer image for ubuntu:latest
+]0;root@64c35e282ba5: /root@64c35e282ba5:/# [K]0;root@64c35e282ba5: /root@64c35e282ba5:/# mkdir /usr/src/app
+]0;root@64c35e282ba5: /root@64c35e282ba5:/# touch /usr/src/app/index.js
+]0;root@64c35e282ba5: /root@64c35e282ba5:/# [Kexit
+exit
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Malcolms-MacBook-Pro-3.local/Users/malcolmmacleod/Developer/fullstackopen/part12/part12-containers-applications-main/script-answers[0m[27m[24m[Jmalcolmmacleod@Malcolms-MacBook-Pro-3 script-answers % [K[?2004hlls[?2004l
+exercises12_1.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Malcolms-MacBook-Pro-3.local/Users/malcolmmacleod/Developer/fullstackopen/part12/part12-containers-applications-main/script-answers[0m[27m[24m[Jmalcolmmacleod@Malcolms-MacBook-Pro-3 script-answers % [K[?2004hr mmv typescript[1m [0m[0m exercises12_1.txt[1m [0m[K[K_.txt _2.txt[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Malcolms-MacBook-Pro-3.local/Users/malcolmmacleod/Developer/fullstackopen/part12/part12-containers-applications-main/script-answers[0m[27m[24m[Jmalcolmmacleod@Malcolms-MacBook-Pro-3 script-answers % [K[?2004hlls[?2004l
+exercises12_1.txt	exercises12_2.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Malcolms-MacBook-Pro-3.local/Users/malcolmmacleod/Developer/fullstackopen/part12/part12-containers-applications-main/script-answers[0m[27m[24m[Jmalcolmmacleod@Malcolms-MacBook-Pro-3 script-answers % [K[?2004hhhistory[?2004l
+  989  code .gitignore
+  990  git status
+  991  git log
+  992  ls
+  993  cd part12-containers-applications-main
+  994  ls
+  995  cd script-answers
+  996  ls
+  997  docker container run hello-world
+  998  ls
+  999  script > exercises12_2.txt
+ 1000  quit
+ 1001  docker run -it ubuntu bash
+ 1002  ls
+ 1003  mv typescript exercises12_2.txt
+ 1004  ls
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Malcolms-MacBook-Pro-3.local/Users/malcolmmacleod/Developer/fullstackopen/part12/part12-containers-applications-main/script-answers[0m[27m[24m[Jmalcolmmacleod@Malcolms-MacBook-Pro-3 script-answers % [K[?2004hggit status[?2004l
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mexercises12_2.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Malcolms-MacBook-Pro-3.local/Users/malcolmmacleod/Developer/fullstackopen/part12/part12-containers-applications-main/script-answers[0m[27m[24m[Jmalcolmmacleod@Malcolms-MacBook-Pro-3 script-answers % [K[?2004hggit add exercises12_2.txt[1m [0m[K
