@@ -61,4 +61,4 @@ typings/
 .next
 
 # mongo data
-mongo/mongo_data/**
+mongo_data/**
